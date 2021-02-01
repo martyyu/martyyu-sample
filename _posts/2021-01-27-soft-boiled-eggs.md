@@ -3,7 +3,7 @@ layout: post
 title:  "Soft-boiled eggs"
 author: "Marty Yu"
 date:   2021-01-27 13:09:58 -0800
-categories: Egg recipes
+categories: "Egg recipes"
 ---
 ### Ingredients
 * 2 eggs
