@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Marty Yu
+name: Eggs and Python
 
 # Short bio or description (displayed in the header)
-description: Technical writer
+description: Marty Yu - Technical writer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/martyyu/martyyu-sample/master/images/python-eggs.jpg
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: martyyu/martyu-sample
+  github: martyyu/martyyu-sample
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: martyyu
+  twitter: 
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
